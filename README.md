@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Introduction
+
 <!--
 **phillipslucas/phillipslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Projects and Portfolio
+- Link to COB WebMaps
+- Embedded Map examples
+  
+## Demos
+
