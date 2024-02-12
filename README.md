@@ -1,6 +1,8 @@
 ## Introduction
 
-My name is Lucas Phillips and I am a Masters Student at the University of Tennessee on the Knoxville campus. I graduated with my bachelors degree in environmental studies, geography major and GIS minor in 2016 from Western Washington University. I spent time in the environmental consulting field, freelance jobs, fish exclusion, solar installation, UAV pilot and cadastral data management. I enjoy solving practical problems and use coding to streamline my workflows and spend more time away from the computer.
+My name is Lucas Phillips and I am a Masters Student at the University of Tennessee on the Knoxville campus. I graduated with my bachelors degree in environmental studies, geography major and GIS minor in 2016 from Western Washington University. I spent time in the environmental consulting field, freelance jobs, fish exclusion, solar installation, UAV pilot and cadastral data management. 
+
+I love spatial problems of all varieties from lidar point cloud classification to mapping housing inequality. 
 
 
   
